@@ -1,0 +1,4 @@
+hintfy
+======
+
+JQuery Hintfy Plugin
